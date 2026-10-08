@@ -1,0 +1,250 @@
+{
+  "erstellt": "2026-10-07",
+  "quelle": "Codex: survey-quest.html, quest-analytics.html?display=dashboard, quest-analytics-imac.html (Dev-Server 5181). Aufnahme: scripts/capture-survey-showcase.mjs",
+  "hinweis": "Alle Werte im Premium Reporting sind simuliert. Marken im Bild: nur nüssje (Frugends-Partnermarke) und Frugends.",
+  "clips": [
+    {
+      "id": "quest-run",
+      "mp4": "media/survey/quest-run.mp4",
+      "webm": "media/survey/quest-run.webm",
+      "poster": "media/survey/quest-run.webp",
+      "width": 640,
+      "height": 1346,
+      "dauer": 20.5,
+      "inhalt": "Ein Lauf durch die Survey im Zeitraffer: Dose antippen, Stimmung in die Mitte ziehen, den Biss auf der Taste-Map setzen, im Duell wählen und am Ende den versiegelten Drop aufziehen; die Tester Club Points landen auf dem Konto.",
+      "signale": [
+        {
+          "t": 1.01,
+          "art": "antwort"
+        },
+        {
+          "t": 5.16,
+          "art": "antwort"
+        },
+        {
+          "t": 9.06,
+          "art": "antwort"
+        },
+        {
+          "t": 12.63,
+          "art": "antwort"
+        },
+        {
+          "t": 13.63,
+          "art": "antwort"
+        },
+        {
+          "t": 16.8,
+          "art": "drop"
+        }
+      ],
+      "kb": {
+        "mp4": 1648,
+        "webm": 1329,
+        "poster": 61
+      }
+    },
+    {
+      "id": "quest-start",
+      "mp4": "media/survey/quest-start.mp4",
+      "webm": "media/survey/quest-start.webm",
+      "poster": "media/survey/quest-start.webp",
+      "width": 640,
+      "height": 1346,
+      "dauer": 6.2,
+      "inhalt": "Level 1 startet: Die Käuferin tippt auf die nüssje Dose und zieht ihre Stimmung in die Mitte.",
+      "signale": [
+        {
+          "t": 1.01,
+          "art": "antwort"
+        },
+        {
+          "t": 5.16,
+          "art": "antwort"
+        }
+      ],
+      "kb": {
+        "mp4": 412,
+        "webm": 354,
+        "poster": 59
+      }
+    },
+    {
+      "id": "quest-dial",
+      "mp4": "media/survey/quest-dial.mp4",
+      "webm": "media/survey/quest-dial.webm",
+      "poster": "media/survey/quest-dial.webp",
+      "width": 640,
+      "height": 1346,
+      "dauer": 4.1,
+      "inhalt": "Im Taste Lab dreht die Käuferin den Regler und lässt ihn bei ihrer Bewertung einrasten.",
+      "signale": [
+        {
+          "t": 2.35,
+          "art": "antwort"
+        }
+      ],
+      "kb": {
+        "mp4": 329,
+        "webm": 236,
+        "poster": 62
+      }
+    },
+    {
+      "id": "quest-taste",
+      "mp4": "media/survey/quest-taste.mp4",
+      "webm": "media/survey/quest-taste.webm",
+      "poster": "media/survey/quest-taste.webp",
+      "width": 640,
+      "height": 1346,
+      "dauer": 5.9,
+      "inhalt": "Auf der Taste-Map zieht die Käuferin ihren Biss zwischen süß, sauer, hart und weich; die Einordnung erscheint live.",
+      "signale": [
+        {
+          "t": 3.64,
+          "art": "antwort"
+        }
+      ],
+      "kb": {
+        "mp4": 331,
+        "webm": 288,
+        "poster": 61
+      }
+    },
+    {
+      "id": "quest-duel",
+      "mp4": "media/survey/quest-duel.mp4",
+      "webm": "media/survey/quest-duel.webm",
+      "poster": "media/survey/quest-duel.webp",
+      "width": 640,
+      "height": 1346,
+      "dauer": 4.9,
+      "inhalt": "Im Duell zieht die Käuferin, was sie reizt, und tippt, was sie bremst.",
+      "signale": [
+        {
+          "t": 2.16,
+          "art": "antwort"
+        },
+        {
+          "t": 3.16,
+          "art": "antwort"
+        }
+      ],
+      "kb": {
+        "mp4": 288,
+        "webm": 276,
+        "poster": 68
+      }
+    },
+    {
+      "id": "quest-tray",
+      "mp4": "media/survey/quest-tray.mp4",
+      "webm": "media/survey/quest-tray.webm",
+      "poster": "media/survey/quest-tray.webp",
+      "width": 640,
+      "height": 1346,
+      "dauer": 6.5,
+      "inhalt": "Die Käuferin zieht zwei Wünsche in ihre nächste Box, und das Level ist geschafft.",
+      "signale": [
+        {
+          "t": 1.82,
+          "art": "antwort"
+        },
+        {
+          "t": 3.95,
+          "art": "antwort"
+        }
+      ],
+      "kb": {
+        "mp4": 371,
+        "webm": 320,
+        "poster": 68
+      }
+    },
+    {
+      "id": "quest-loot",
+      "mp4": "media/survey/quest-loot.mp4",
+      "webm": "media/survey/quest-loot.webm",
+      "poster": "media/survey/quest-loot.webp",
+      "width": 640,
+      "height": 1346,
+      "dauer": 6.7,
+      "inhalt": "Nach Level 3 zieht die Käuferin ihren versiegelten Drop auf, einen Skin, und ihre Tester Club Points zählen um 150 hoch.",
+      "signale": [
+        {
+          "t": 2.7,
+          "art": "drop"
+        }
+      ],
+      "kb": {
+        "mp4": 578,
+        "webm": 382,
+        "poster": 42
+      }
+    },
+    {
+      "id": "dashboard",
+      "mp4": "media/survey/dashboard.mp4",
+      "webm": "media/survey/dashboard.webm",
+      "poster": "media/survey/dashboard.webp",
+      "width": 1600,
+      "height": 1000,
+      "dauer": 19.9,
+      "inhalt": "Das Premium Reporting mit simulierten Daten: Der 3D-Sensorik-Raum dreht sich, der Altersfilter ändert die Kennzahlen, ein Muster im Sensorik-Code wird gewählt.",
+      "kb": {
+        "mp4": 1353,
+        "webm": 1440,
+        "poster": 119
+      }
+    },
+    {
+      "id": "imac",
+      "mp4": "media/survey/imac.mp4",
+      "webm": "media/survey/imac.webm",
+      "poster": "media/survey/imac.webp",
+      "width": 1600,
+      "height": 1188,
+      "dauer": 15.9,
+      "inhalt": "Dasselbe Premium Reporting auf Codex' iMac-Bühne: Der Datenraum wird gedreht und ein Muster gewählt.",
+      "kb": {
+        "mp4": 1003,
+        "webm": 1155,
+        "poster": 125
+      }
+    }
+  ],
+  "stills": [
+    {
+      "id": "dashboard-still",
+      "src": "media/survey/dashboard-still.webp",
+      "width": 2880,
+      "height": 1800,
+      "inhalt": "Premium Reporting im Ausgangszustand: Kennzahlen, 3D-Sensorik-Raum, Sensorik-Code. Oben rechts steht „Simulierte Demo · keine Messwerte\".",
+      "kb": 260
+    },
+    {
+      "id": "imac-still",
+      "src": "media/survey/imac-still.webp",
+      "width": 2708,
+      "height": 1990,
+      "inhalt": "Codex' iMac-Bühne mit dem Premium Reporting im Bildschirm, ganze Maschine mit Standfuß.",
+      "kb": 229
+    },
+    {
+      "id": "quest-karte-still",
+      "src": "media/survey/quest-karte-still.webp",
+      "width": 2672,
+      "height": 1310,
+      "inhalt": "Die Kampagnenkarte der Survey: sechs Level mit je fünf Fragen, der Zähler der Tester Club Points dieses Runs, das Konto mit dem nächsten Tester-Reward und die Drops (Skins, Card Backs).",
+      "kb": 88
+    },
+    {
+      "id": "quest-handy-still",
+      "src": "media/survey/quest-handy-still.webp",
+      "width": 736,
+      "height": 1474,
+      "inhalt": "Die Premium Survey im Telefon von Codex, Frage „Wo landet dein Biss?\" mit der Taste-Map.",
+      "kb": 64
+    }
+  ]
+}
